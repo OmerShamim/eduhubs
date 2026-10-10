@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is modification file
 This is from developer1 new
 this is modification file
